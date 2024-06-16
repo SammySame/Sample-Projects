@@ -1,5 +1,5 @@
 # Sample-Projects
-Some examples of my personal codding projects.
+Some examples of my personal coding projects.
 
 ## A* Galaxy Generator
 [Separate repo link](https://github.com/Pick65/AStar-Galaxy-Generator) <br>
@@ -13,6 +13,15 @@ It has a Python API that can be used to create custom plugins. <br>
 In this case, I used it to automate rendering out a scene with different
 textures for the object, several resolutions, and different camera angles.
 It can easily be used for different projects if so desired.
+
+## Getting information from the .jar files
+[Source code](getModInfo.py) <br>
+Really handy Python script, which helped me with version control, without the need
+to commit large .jar files to the repo. It does it by reading the text files, that
+were used for indexing in other software. In short, it retrieves the file name,
+an URL which can come in two variants depending on the source, and each of them
+needs to be retrieved differently. Finally, it exports all the data to the text file,
+in an Excel friendly format.
 
 ## JavaScript scripts for Minecraft modding
 [Source code](CustomRecipes%26BlockEvents.js) <br>
