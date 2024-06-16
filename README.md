@@ -19,9 +19,8 @@ It can easily be used for different projects if so desired.
 Really handy Python script, which helped me with version control, without the need
 to commit large .jar files to the repo. It does it by reading the text files, that
 were used for indexing in other software. In short, it retrieves the file name,
-an URL which can come in two variants depending on the source, and each of them
-needs to be retrieved differently. Finally, it exports all the data to the text file,
-in an Excel friendly format.
+file version number, and an URL which can come in two variants depending on the source.
+Finally, it exports all the data to the text file, in an Excel friendly format.
 
 ## JavaScript scripts for Minecraft modding
 [Source code](CustomRecipes%26BlockEvents.js) <br>
