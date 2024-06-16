@@ -20,7 +20,7 @@ Minecraft is a 3D sandbox game with a huge modding community
 that created tens of thousands of modifications for it.
 Thanks to the [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs)
 modification for Minecraft, I was able to utilize JavaScript to make changes
-in various base game mechanics, and even other users modifications.
+in various base game mechanics, and even other users modifications. <br>
 For example, in the above script, I was able to add custom recipes,
 various events, when right-clicking blocks and even schedule method calls.
 It greatly sped up the creation process in my personal project,
