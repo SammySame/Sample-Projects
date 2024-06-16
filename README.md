@@ -14,7 +14,7 @@ In this case, I used it to automate rendering out a scene with different
 textures for the object, several resolutions, and different camera angles.
 It can easily be used for different projects if so desired.
 
-## Getting information from the .jar files
+## Retrieving data for Version Control and Excel
 [Source code](getModInfo.py) <br>
 Really handy Python script, which helped me with version control, without the need
 to commit large .jar files to the repo. It does it by reading the text files, that
