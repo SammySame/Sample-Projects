@@ -1,0 +1,37 @@
+{
+    "rules": [
+        {
+            "from_dim": "minecraft:overworld",
+            "to_dim": "minecraft:the_nether",
+            "from_y_min": -200,
+            "from_y_max": -65,
+            "to_y": 120,
+            "effects": [
+                {
+                    "id": "fire_resistance",
+                    "duration": 400,
+                    "amplifier": 0
+                },
+                {
+                    "id": "slow_falling",
+                    "duration": 300,
+                    "amplifier": 1
+                }
+            ]
+        },
+        {
+            "from_dim": "minecraft:the_nether",
+            "to_dim": "minecraft:overworld",
+            "from_y_min": 140,
+            "from_y_max": 300,
+            "to_y": -50,
+            "effects": [
+                {
+                    "id": "slow_falling",
+                    "duration": 300,
+                    "amplifier": 1
+            }
+        ]
+        }
+    ]
+}
